@@ -1,5 +1,5 @@
 {
-    "name": "oxygenzsas/http-server-built-in-php",
+    "name": "oxygenzsas/composer_lib_http_server_built_in_php",
     "description": "Hack middleware pour les fichiers static avec le serveur HTTP de PHP !!! NE PAS UTILSER EN PROD !!!",
     "license": "MIT",
     "keywords": ["middleware","minimalist","PSR-15","hack", "php http serveur", "builtin"],
