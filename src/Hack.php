@@ -63,6 +63,10 @@ class Hack implements MiddlewareInterface
                 $ct = 'text/css';
                 break;
 
+            case 'svg':
+                $ct = 'image/svg+xml';
+                break;
+
             default:
                 $ct = 'text/plain';
                 break;
